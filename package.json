@@ -1,0 +1,18 @@
+{
+  "name": "googlenews",
+  "version": "1.0.0",
+  "description": "api que busca noticias no google news",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alanpc7@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "puppeteer": "^10.0.0",
+    "socket.io": "^4.1.2"
+  }
+}
